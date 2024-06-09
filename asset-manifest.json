@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/telegram-games/static/css/main.af4f662b.css",
+    "main.js": "/telegram-games/static/js/main.76cd617f.js",
+    "index.html": "/telegram-games/index.html",
+    "main.af4f662b.css.map": "/telegram-games/static/css/main.af4f662b.css.map",
+    "main.76cd617f.js.map": "/telegram-games/static/js/main.76cd617f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4f662b.css",
+    "static/js/main.76cd617f.js"
+  ]
+}
